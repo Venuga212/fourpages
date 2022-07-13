@@ -1,0 +1,16 @@
+ul img{
+    height:40px;
+}
+#page img{
+    position:relative;
+}
+
+#page h2{
+    display:flex;
+    justify-content:center;
+    position:absolute;
+}
+.container div{
+    border: 5px solid white;
+}
+
